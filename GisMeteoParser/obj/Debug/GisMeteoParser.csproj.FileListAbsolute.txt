@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\GisMeteoParser\GisMeteoParser\bin\Debug\GisMeteoParser.exe.config
+C:\Users\PC\source\repos\GisMeteoParser\GisMeteoParser\bin\Debug\GisMeteoParser.exe
+C:\Users\PC\source\repos\GisMeteoParser\GisMeteoParser\bin\Debug\GisMeteoParser.pdb
+C:\Users\PC\source\repos\GisMeteoParser\GisMeteoParser\obj\Debug\MainWindow.g.cs
+C:\Users\PC\source\repos\GisMeteoParser\GisMeteoParser\obj\Debug\App.g.cs
+C:\Users\PC\source\repos\GisMeteoParser\GisMeteoParser\obj\Debug\GisMeteoParser_MarkupCompile.cache
+C:\Users\PC\source\repos\GisMeteoParser\GisMeteoParser\obj\Debug\GisMeteoParser_MarkupCompile.lref
+C:\Users\PC\source\repos\GisMeteoParser\GisMeteoParser\obj\Debug\MainWindow.baml
+C:\Users\PC\source\repos\GisMeteoParser\GisMeteoParser\obj\Debug\GisMeteoParser.g.resources
+C:\Users\PC\source\repos\GisMeteoParser\GisMeteoParser\obj\Debug\GisMeteoParser.Properties.Resources.resources
+C:\Users\PC\source\repos\GisMeteoParser\GisMeteoParser\obj\Debug\GisMeteoParser.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GisMeteoParser\GisMeteoParser\obj\Debug\GisMeteoParser.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GisMeteoParser\GisMeteoParser\obj\Debug\GisMeteoParser.exe
+C:\Users\PC\source\repos\GisMeteoParser\GisMeteoParser\obj\Debug\GisMeteoParser.pdb
+C:\Users\PC\source\repos\GisMeteoParser\GisMeteoParser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PC\source\repos\GisMeteoParser\GisMeteoParser\obj\Debug\GisMeteoParser.csprojAssemblyReference.cache
